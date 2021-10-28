@@ -1,4 +1,4 @@
-###  Olá, eu sou o João! 👨‍💻
+###  Hi there, I'm João! 👨‍💻
 
  <div>
     <a href="https://github.com/joao-amaral99">
