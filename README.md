@@ -3,6 +3,7 @@
  
   <h4>💻 - Software Engineer</h4>
   <h4>🪄 - I love what we can do through codes.  </h4>
+  <h4>🚀- Currently I'm learning NodeJS </h4>
   
 
   <div style="display: inline_block"><br>
