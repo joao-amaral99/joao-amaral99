@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🖖, I'm João Amaral</h1>
 <h3 align="center">A passionate developer from Brasil 💻</h3>
 
-- 🌱 I’m currently learning **NestJS**
-
 - 👨‍💻 Currently working with **TypeScript** and **Angular**
+
+- 🌱 I’m currently learning **NestJS**
 
 - 📫 How to reach me **joao.amaral.almeida99@gmail.com**
 
