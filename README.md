@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 📫 How to reach me **joao.amaral.almeida99@gmail.com**
+- 📫 How to reach me **joaoamaral.dev@gmail.com**
 
 <p align="left">
 </p>
