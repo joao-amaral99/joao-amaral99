@@ -3,8 +3,6 @@
 
 - 👨‍💻 Currently working with **TypeScript** and **Angular**
 
-- 🌱 I’m currently learning **NestJS**
-
 - 📫 How to reach me **joaoamaral.dev@gmail.com**
 
 <p align="left">
