@@ -19,8 +19,8 @@
  <a href="https://angular.io/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="angular" width="40" height="40" />
  </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="vuejs" width="40" height="40"/> 
  </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
