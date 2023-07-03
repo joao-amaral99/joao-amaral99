@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖, I'm João Amaral</h1>
 <h3 align="center">A passionate developer from Brasil 💻</h3>
 
-- 👨‍💻 Currently working with **TypeScript**, **Angular** and **NodeJs**
+- 👨‍💻 Currently working with **TypeScript**, **Angular**, **VueJs**, **NodeJs** and **PHP**
 
 - 📫 How to reach me **joaoamaral.dev@gmail.com**
 
