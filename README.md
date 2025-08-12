@@ -3,8 +3,6 @@
 
 - 👨‍💻 Currently working with **TypeScript**, **Angular**, **VueJs**, **NodeJs** and **PHP**
 
-- 📫 How to reach me **joaoamaral.dev@gmail.com**
-
 <p align="left">
 </p>
 
