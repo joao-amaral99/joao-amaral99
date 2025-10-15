@@ -38,9 +38,3 @@ I'm a **Full Stack Developer** passionate about building clean, efficient, and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
----
-
-<p align="center">
-  <i>"Code is like art — simple, expressive, and built with intention."</i>
-</p>
