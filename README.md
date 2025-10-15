@@ -15,7 +15,6 @@
 ### 💡 About Me
 
 I'm a **Full Stack Developer** passionate about building clean, efficient, and scalable web applications.  
-I enjoy turning complex ideas into elegant code and intuitive interfaces.
 
 - 💻 Working with **PHP**, **Laravel**, **NodeJS**, **NestJS**, **TypeScript**, **VueJS**, and **Angular**  
 - 🌱 Always learning and improving my craft  
